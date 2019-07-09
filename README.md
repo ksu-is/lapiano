@@ -18,7 +18,7 @@ ___
 
 - [x] Set up README
 - [x] Setup task list with check boxes
-- [ ] Find related repository
+- [x] Find related repository
 - [ ] Clone repository into team
 - [ ] Ensure repository is public
 - [ ] Assign an open source license
