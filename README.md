@@ -1,4 +1,4 @@
-# lapiano: Piano Laptop
+# lapiano: Your piano is your laptop
 Turning your laptop keyboard to a piano
 __
 
@@ -29,5 +29,5 @@ ___
 - [ ] Document how to work [xx] repository 
 - [ ] Document issues encounted
 
-[1]: https://github.com/Zulko/Minimix
-[2]: https://zulko.wordpress.com/2013/01/21/typing-keyboard-python-musical-instrument/
+https://github.com/Zulko/Minimix
+https://zulko.wordpress.com/2013/01/21/typing-keyboard-python-musical-instrument/
