@@ -29,5 +29,5 @@ ___
 - [ ] Document how to work [xx] repository 
 - [ ] Document issues encounted
 
-(Ref#1) [https://github.com/Zulko/Minimix]
-(Ref#2) [https://zulko.wordpress.com/2013/01/21/typing-keyboard-python-musical-instrument/]
+(Ref#1: sample code) https://github.com/Zulko/Minimix
+(Ref#2: how it looks like) https://zulko.wordpress.com/2013/01/21/typing-keyboard-python-musical-instrument/
