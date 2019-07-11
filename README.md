@@ -11,8 +11,9 @@ The idea is to create a user-friendly app that allows music notes to be able to 
 * Will help to compose music on the go
 * Children can learning how to play piano with a piano stimulation on the keyboard
 
-### Who will use: 
+### Who can use: 
 EVERYONE
+
 #### Task List
 ___
 
