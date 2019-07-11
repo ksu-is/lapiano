@@ -27,7 +27,7 @@ ___
 
 - [ ] Evaluate related repository
 - [ ] Test repository & get it running
-- [ ] Document how to work [xx] repository 
+- [ ] Document how to work lapiano repository 
 - [ ] Document issues encounted
 
 (Ref#1: sample code) https://github.com/Zulko/Minimix
