@@ -20,8 +20,8 @@ ___
 - [x] Set up README
 - [x] Setup task list with check boxes
 - [x] Find related repository
-- [ ] Clone repository into team
-- [ ] Ensure repository is public
+- [x] Clone repository into team
+- [x] Ensure repository is public
 - [ ] Assign an open source license
 - [ ] Make sure team members have access to repository
 
