@@ -7,7 +7,7 @@ __
 The idea is to create a user-friendly app that allows music notes to be able to play on each key of the laptop keyboard. 
 >The aim is to help anyone who loves music, and piano specifically can get an affordable piano on the go
 
-* Will play a song composed by keyboard
+* Will play a sound/musical note when you press a key
 * Will help to compose music on the go
 * Children can learning how to play piano with a piano stimulation on the keyboard
 
