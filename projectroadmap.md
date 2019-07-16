@@ -18,3 +18,14 @@
 - [ ] format code to interpret "letter = play sound"
 - [ ] insert additional code to format sounds to preferences
 - [ ] run keyboard_test.py on different computers to check for additional errors
+### Issue encountered/encountering 
+- Syntax errors while trying to run keyboard_test
+    - [ ] fix 
+    - [ ] cannot fix
+- .mp3 source to add to code is found?
+    - [ ] yes
+    - [ ] no
+- powerpoint slides problem to present the idea
+    - [ ] flowchart - Jordan will provide
+    - [ ] pictures - Jean will look up and make any edit if needed
+    - [ ] ...
