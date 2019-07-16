@@ -22,7 +22,7 @@ ___
 - [x] Find related repository
 - [x] Clone repository into team
 - [x] Ensure repository is public
-- [ ] Assign an open source license
+- [x] Assign an open source license
 - [x] Make sure team members have access to repository
 
 - [x] Evaluate related repository
