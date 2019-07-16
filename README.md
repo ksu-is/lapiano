@@ -23,12 +23,12 @@ ___
 - [x] Clone repository into team
 - [x] Ensure repository is public
 - [ ] Assign an open source license
-- [ ] Make sure team members have access to repository
+- [x] Make sure team members have access to repository
 
-- [ ] Evaluate related repository
+- [x] Evaluate related repository
 - [ ] Test repository & get it running
 - [ ] Document how to work lapiano repository 
-- [ ] Document issues encounted
+   
 
 (Ref#1: sample code) https://github.com/Zulko/Minimix
 
