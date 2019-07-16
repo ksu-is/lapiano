@@ -26,7 +26,8 @@ ___
 - [x] Make sure team members have access to repository
 
 - [x] Evaluate related repository
-- [ ] Test repository & get it running
+- [x] Test repository sample & get it running
+   - [x] Sample did not run because of the sound source **.waw**, will edit
 - [ ] Document how to work lapiano repository 
    
 
