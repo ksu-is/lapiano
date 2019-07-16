@@ -1,5 +1,7 @@
 # Jean
-- [x] , #refs, [links](), **editing**, and <del>create new file based on pianoputer</del> supported
+- [x] create task list for the project task 2 which is due on July 19th
+- [x] confirm tasks with Jordan and what he's working on
+- [x] **editing**, and <del>create new file based on pianoputer</del> supported
 - [x] **creating powerpoint** for the project
 - [ ] start working on powerpoint slides from July 23rd
     -[x] start early on July 16th
@@ -29,3 +31,7 @@
     - [ ] flowchart - Jordan will provide
     - [ ] pictures - Jean will look up and make any edit if needed
     - [ ] ...
+#### Meetings (likely once a week at least to work together)
+- [x] July 16: tasks list assigned and working on code
+- [ ] July 18: work on the powerpoint slide (**DUE ON JULY 20**)
+- [ ] July 23
