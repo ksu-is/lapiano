@@ -5,9 +5,14 @@
 - [x] **creating powerpoint** for the project
 - [ ] start working on powerpoint slides from July 23rd
     -[x] start early on July 16th
+    - [x] switch with Jordan on this task and start working on the code on Juky 17th
 - [ ] test the sound library on Jordan's work
 - [ ] test the "letter = play sound" 
 - [ ] edit final code after Jordan finish inserting additional code
+- [ ] start assigning each note to an appropriate letter/symbol
+- [ ] format code to interpret "letter = play sound"
+- [ ] insert additional code to format sounds to preferences
+- [ ] run keyboard_test.py on different computers to check for additional errors
 - [ ] put keyboard_test.py to the main code and test
 ## Jordan
 - [x] create new file based on pianoputer at [https://github.com/Zulko/pianoputer]
@@ -16,10 +21,11 @@
 - [x] create virtual keyboard using gui
     - [ ] testing if keyboard code works
 - [x] open sound library 
-- [ ] start assigning each note to an appropriate letter/symbol
-- [ ] format code to interpret "letter = play sound"
-- [ ] insert additional code to format sounds to preferences
+- <del>[ ] start assigning each note to an appropriate letter/symbol</del>
+- <del>[ ] format code to interpret "letter = play sound"</del>
+- <del>[ ] insert additional code to format sounds to preferences</del>
 - [ ] run keyboard_test.py on different computers to check for additional errors
+- [ ] put keyboard_test.py to the main code and test
 ### Issue encountered/encountering 
 - Syntax errors while trying to run keyboard_test
     - [ ] fix 
