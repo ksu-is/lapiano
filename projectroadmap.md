@@ -7,6 +7,8 @@
     -[x] start early on July 16th
     - [x] switch with Jordan on this task and start working on the code on Juky 17th
 - [ ] test the sound library on Jordan's work
+    -[x] test 1 - **not working**
+    -[ ] test 2
 - [ ] test the "letter = play sound" 
 - [ ] edit final code after Jordan finish inserting additional code
 - [ ] start assigning each note to an appropriate letter/symbol
@@ -40,5 +42,5 @@
     - [ ] ...
 #### Meetings (likely once a week at least to work together)
 - [x] July 16: tasks list assigned and working on code
-- [ ] July 18: work on the powerpoint slide (**DUE ON JULY 20**)
+- [x] July 18: work on the powerpoint slide (**DUE ON JULY 20**)
 - [ ] July 23
