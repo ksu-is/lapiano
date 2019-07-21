@@ -32,14 +32,14 @@
 ### Issue encountered/encountering 
 - Syntax errors while trying to run keyboard_test
     - [ ] fix 
-    - [ ] cannot fix
+    - [x] cannot fix
 - .mp3 source to add to code is found?
     - [ ] yes
-    - [ ] no
+    - [x] no -  **will keep looking**
 - powerpoint slides problem to present the idea
-    - [ ] flowchart - Jordan will provide
-    - [ ] pictures - Jean will look up and make any edit if needed
-    - [ ] ...
+    - [x] flowchart - Jordan will provide - **no need**
+    - [x] pictures - Jean will look up and make any edit if needed
+    - [x] submitted 
 #### Meetings (likely once a week at least to work together)
 - [x] July 16: tasks list assigned and working on code
 - [x] July 18: work on the powerpoint slide (**DUE ON JULY 20**)
