@@ -14,21 +14,7 @@ The idea is to create a user-friendly app that allows music notes to be able to 
 ### Who can use: 
 EVERYONE
 
-#### Task List
-___
 
-- [x] Set up README
-- [x] Setup task list with check boxes
-- [x] Find related repository
-- [x] Clone repository into team
-- [x] Ensure repository is public
-- [x] Assign an open source license
-- [x] Make sure team members have access to repository
-
-- [x] Evaluate related repository
-- [x] Test repository sample & get it running
-   - [x] Sample did not run because of the sound source **.waw**, will edit
-- [ ] Document how to work lapiano repository 
    
 
 (Ref#1: sample code) https://github.com/Zulko/Minimix
