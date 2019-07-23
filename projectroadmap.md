@@ -1,18 +1,19 @@
 ##### Task List of first week
 ___
 
-- [x] Set up README
-- [x] Setup task list with check boxes
-- [x] Find related repository
-- [x] Clone repository into team
-- [x] Ensure repository is public
-- [x] Assign an open source license
-- [x] Make sure team members have access to repository
-
-- [x] Evaluate related repository
+- [x] Set up README - Jean
+- [x] Setup task list with check boxes - Jean and Jordan 
+- [x] Find related repository - Jean and Jordan
+- [x] Clone repository into team - Jean Jordan
+- [x] Ensure repository is public - Jean
+- [x] Assign an open source license - Jean
+- [x] Make sure team members have access to repository - Jean
+- [x] Evaluate related repository - Jean and Jordan
 - [x] Test repository sample & get it running
    - [x] Sample did not run because of the sound source **.waw**, will edit
-- [ ] Document how to work lapiano repository 
+   - [x] test if **.mp3** works - works!
+   - [x] test if still be able to use **.wav** --> YES [x]
+
 # Jean
 - [x] create task list for the project task 2 which is due on July 19th
 - [x] confirm tasks with Jordan and what he's working on
@@ -23,14 +24,15 @@ ___
     - [x] switch with Jordan on this task and start working on the code on Juky 17th
 - [x] test the sound library on Jordan's work
     -[x] test 1 - **not working**
-    -[x] test 2
-- [x] test the "letter = play sound" 
+    -[x] test 2 - **work on the 2nd try**
+- [x] test the keyboard_maker.py for the keyboard configuration
 - [x] edit final code after Jordan finish inserting additional code
 - [x] start assigning each note to an appropriate letter/symbol
 - [x] format code to interpret "letter = play sound"
-- [x] insert additional code to format sounds to preferences
+- [x] insert additional code to format the keyboard display
 - [x] run keyboard_test.py on different computers to check for additional errors
--
+- [x] Document how to work lapiano repository 
+
 ## Jordan
 - [x] create new file based on pianoputer at [https://github.com/Zulko/pianoputer]
 - [x] search for sound source, **.mp3**, not **.wav** as in the sample
