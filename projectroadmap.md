@@ -46,10 +46,10 @@ ___
 - [ ] recording final presentation
 ### Issue encountered/encountering 
 - Syntax errors while trying to run keyboard_test
-    - [ ] fix 
+    - [x] fix 
     - [x] cannot fix
 - .mp3 source to add to code is found?
-    - [ ] yes
+    - [x] yes
     - [x] no -  **will keep looking**
 - powerpoint slides problem to present the idea
     - [x] flowchart - Jordan will provide - **no need**
