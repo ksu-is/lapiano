@@ -99,7 +99,7 @@ def main():
     fps, sound = wavfile.read(args.wav.name)
 
     tones = range(-25, 25)
-    sys.stdout.write('Converting in progress...')
+    sys.stdout.write('Creating your piano in progress...')
     sys.stdout.flush()
     transposed_sounds = [pitchshift(sound, n) for n in tones]
     print("Let's play")
